@@ -1,0 +1,9 @@
+/Users/dany/Downloads/Xamarin.Forms.GoogleMaps.Bindings-master/Source/Xamarin.Forms.GoogleMaps.Bindings/bin/Release/netstandard1.0/Xamarin.Forms.GoogleMaps.Bindings.deps.json
+/Users/dany/Downloads/Xamarin.Forms.GoogleMaps.Bindings-master/Source/Xamarin.Forms.GoogleMaps.Bindings/bin/Release/netstandard1.0/Xamarin.Forms.GoogleMaps.Bindings.dll
+/Users/dany/Downloads/Xamarin.Forms.GoogleMaps.Bindings-master/Source/Xamarin.Forms.GoogleMaps.Bindings/bin/Release/netstandard1.0/Xamarin.Forms.GoogleMaps.Bindings.pdb
+/Users/dany/Downloads/Xamarin.Forms.GoogleMaps.Bindings-master/Source/Xamarin.Forms.GoogleMaps.Bindings/obj/Release/netstandard1.0/Xamarin.Forms.GoogleMaps.Bindings.csproj.CoreCompileInputs.cache
+/Users/dany/Downloads/Xamarin.Forms.GoogleMaps.Bindings-master/Source/Xamarin.Forms.GoogleMaps.Bindings/obj/Release/netstandard1.0/Xamarin.Forms.GoogleMaps.Bindings.AssemblyInfoInputs.cache
+/Users/dany/Downloads/Xamarin.Forms.GoogleMaps.Bindings-master/Source/Xamarin.Forms.GoogleMaps.Bindings/obj/Release/netstandard1.0/Xamarin.Forms.GoogleMaps.Bindings.AssemblyInfo.cs
+/Users/dany/Downloads/Xamarin.Forms.GoogleMaps.Bindings-master/Source/Xamarin.Forms.GoogleMaps.Bindings/obj/Release/netstandard1.0/Xamarin.Forms.GoogleMaps.Bindings.dll
+/Users/dany/Downloads/Xamarin.Forms.GoogleMaps.Bindings-master/Source/Xamarin.Forms.GoogleMaps.Bindings/obj/Release/netstandard1.0/Xamarin.Forms.GoogleMaps.Bindings.pdb
+/Users/dany/Downloads/Xamarin.Forms.GoogleMaps.Bindings-master/Source/Xamarin.Forms.GoogleMaps.Bindings/obj/Release/netstandard1.0/Xamarin.Forms.GoogleMaps.Bindings.csprojAssemblyReference.cache

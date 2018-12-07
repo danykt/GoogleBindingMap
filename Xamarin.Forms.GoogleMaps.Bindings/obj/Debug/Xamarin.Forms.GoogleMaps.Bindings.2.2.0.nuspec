@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Xamarin.Forms.GoogleMaps.Bindings</id>
+    <version>2.2.0</version>
+    <title>Xamarin.Forms.GoogleMaps.Bindings</title>
+    <authors>Atsushi Nakamura, amay077</authors>
+    <owners>Atsushi Nakamura, amay077</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/nuitsjp/Xamarin.Forms.GoogleMaps.Bindings/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/nuitsjp/Xamarin.Forms.GoogleMaps.Bindings</projectUrl>
+    <iconUrl>https://nuitsjp.github.io/Xamarin.Forms.GoogleMaps.Bindings/logo.png</iconUrl>
+    <description>MVVM(Bindings) Support Library for Xamarin.Forms.GoogleMaps.</description>
+    <releaseNotes>https://github.com/nuitsjp/Xamarin.Forms.GoogleMaps.Bindings/releases</releaseNotes>
+    <copyright>Copyright 2017 nuits.jp</copyright>
+    <tags>xamarin forms maps xamarinforms xamarinformsmaps xamarin.forms.maps google googlemap</tags>
+    <dependencies>
+      <group targetFramework=".NETStandard1.0">
+        <dependency id="Xamarin.Forms" version="2.3.4.247" exclude="Build,Analyzers" />
+        <dependency id="Xamarin.Forms.GoogleMaps" version="2.1.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/dany/Downloads/Xamarin.Forms.GoogleMaps.Bindings-master/Source/Xamarin.Forms.GoogleMaps.Bindings/bin/Debug/netstandard1.0/Xamarin.Forms.GoogleMaps.Bindings.dll" target="lib/netstandard1.0/Xamarin.Forms.GoogleMaps.Bindings.dll" />
+  </files>
+</package>
